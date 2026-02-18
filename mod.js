@@ -19,3 +19,4 @@ elements.gubs = {
     density: 1100,
     viscosity: 60000,
 }
+// See 1.10example.js for more rendering examples.
